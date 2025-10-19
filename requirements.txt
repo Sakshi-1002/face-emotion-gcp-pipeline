@@ -1,1 +1,8 @@
+fastapi
+uvicorn
+tensorflow
+opencv-python
+numpy
+pandas
+mlflow
 
