@@ -1,8 +1,9 @@
 fastapi
 uvicorn
-tensorflow
-opencv-python
+python-multipart
+deepface
+tensorflow-cpu
+tf-keras
+opencv-python-headless
 numpy
-pandas
-mlflow
 
